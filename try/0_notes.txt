@@ -1,0 +1,53 @@
+<elements> 
+   - article    / commonly contain multiple elements that have related information.
+   - configure
+   - div        / use mainly for design layout. id (#) & class (.).
+   - fieldset   / to seperate the section and have a line other sides
+   - main
+   - style      / use to design within inside of file, it's called embedded.
+   
+
+css property and values (codes that might be forgotten due to my short memmory xd)
+
+   - background             : any colors and hex code;
+   - background-attachment  : specifies whether the background image should scroll or be fixed. fixed, scroll;
+   - background-repeat      : no-repeat, repeat-x;
+   - display                : inline-block - only takes up as much space as needed;
+                              block element - takes up entire line
+                              inline element - appear with the line of text
+   - direction              : rtl;
+   - font-family            : used to change the font of your content;
+   - line-height            : space to your paragraph vertically;
+   - max-width              : used to limit the wide of ur content;
+   - oppacity               : fade 1 to o.1
+   - padding                : px, used to expand ur box. top-right bottom-left;
+   - text-align             : left, right or auto;
+                              : justify, each line is stretched
+   - text-indent            : it set space your first paragraph. 50%;
+   - vertical-align         : align items to top, middle, bottom
+   - width                  : px, vh, %; 
+   - word-spacing           : space between word;
+
+   top, right, bottom, and left (15px 15px 15px 15px)
+
+validation
+   - for html https://validator.w3.org/#validate_by_upload
+   - for css https://jigsaw.w3.org/css-validator/
+
+
+other notes
+   - top, right, bottom, and left (15px 15px 15px 15px)
+   - box shadow 1st value left-right, 2nd value bottom left, 3rd value shadow blured control 1px 1px 1px
+   - for coloring the first three is for color and the last is for opacity rgba(0, 0, 0, 0.1)
+
+
+
+
+
+
+
+
+
+
+
+   ABCDEFGHIJKLMNOPQRSTUVWXZ

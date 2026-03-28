@@ -1,0 +1,7 @@
+shift + ! + tab = shortcut for html form
+ctrl + z = for undo
+
+shortcut codings examples
+   - span.nav-item
+   - .container
+   - nav>ul>li*9>a

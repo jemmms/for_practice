@@ -1,0 +1,91 @@
+.searchbar {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+/* normal search bar */
+.normal-searchbar {
+    padding: 15px 0px 15px 15px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d3d3d3;
+}
+
+/* normal searh bar 2 */
+.normal-searchbar2 {
+    height: 40px;
+    width: 350px;
+    padding-left: 15px;
+    border-radius: 30px;
+    border-style: none;
+    box-shadow: 0px 0px 5px 0px #d3d3d3;
+}
+
+/* linkedkn */
+.label {
+    font-family: Arial;
+    font-size: 14px;
+    color: #808080;
+    margin-bottom: 4px;
+}
+
+.email {
+    height: 20px;
+    width: 315px;
+    padding-left: 15px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d3d3d3;
+}
+
+.privacy-policy {
+    font-family: Arial;
+    font-size: 14px;
+    color: #808080;
+}
+
+.email-button {
+    height: 40px;
+    width: 336px;
+    background-color: #0073b1;
+    color: white;
+    font-family: Arial;
+    font-size: 16px;
+    border-style: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+/* tweet */
+
+.cat-images {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.twitter {
+    height: 40px;
+    width: 300px;
+    font-size: 14px;
+    border-radius: 20px;
+    border-style: none;
+    vertical-align: middle;
+}
+
+.tweet-button {
+    height: 40px;
+    width: 80px;
+    color: white;
+    background-color: #1da1f2;
+    border-style: none;
+    border-radius: 20px;
+    cursor: pointer;
+    vertical-align: middle;
+    font-size: 14px;
+    font-weight: bold;
+}
